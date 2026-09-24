@@ -15,8 +15,9 @@ Motor de producción para **Retrieval-Augmented Generation (RAG) Híbrido** impl
 Demostración del ciclo completo del motor: subida e ingesta concurrente de PDFs, búsqueda híbrida determinista con RRF, citas estrictas por página, aislamiento documental y memoria multi-turno:
 
 <!-- Inserta la URL generada al arrastrar tu archivo .mp4 al editar este archivo en GitHub -->
-https://github.com/user-attachments/assets/TU_VIDEO_ID.mp4
-
+[https://github.com/user-attachments/assets/TU_VIDEO_ID.mp4
+](https://github.com/user-attachments/assets/cbd65417-41b7-42b2-84fe-cb9ecac8c319
+)
 ---
 
 ## 🖥️ Interfaz de Usuario
