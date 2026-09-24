@@ -176,7 +176,7 @@ hybrid-rag-api/
 
 ### 1. Clonar el repositorio y configurar variables de entorno
 ```bash
-git clone [https://github.com/ernesto2604/hybrid-rag-api.git](https://github.com/ernesto2604/hybrid-rag-api.git)
+git clone https://github.com/ernesto2604/hybrid-rag-api.git
 cd hybrid-rag-api
 cp .env.example .env
 ```
